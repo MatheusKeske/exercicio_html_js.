@@ -1,0 +1,11 @@
+header h1 {
+    color: darkblue;
+}
+
+.mensagem {
+    color: green;
+}
+
+.erro-mensagem {
+    color: red;
+}
